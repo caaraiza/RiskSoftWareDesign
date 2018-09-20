@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Game 
 {
-	public static void main() {	
+	public static void main(String[] args) {	
 		
 		int n = start();
 		createPlayers(n);
